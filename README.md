@@ -30,5 +30,5 @@ A continuacion dejare evidencia de los requistos completados:
 - Uso de GitHub Copilot con Python: ![github4](https://github.com/user-attachments/assets/9d816cbe-2a23-4b26-a6f2-a8e860562e1f)
 
 ## Portafolio: https://xplooid.github.io/mi-portfolio/
-![portfolio](https://github.com/user-attachments/assets/2cda4ec2-1c66-4d03-96f6-552112fcb5c8)
+![portfolio](https://github.com/user-attachments/assets/907a3cfa-5082-42ab-946e-3f5ebc67082a)
 
